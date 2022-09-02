@@ -1,3 +1,3 @@
 # Bank-WebApp
 
-Click [here](www.quora.com/profile/Ashish-Kulkarni-100)
+[Live Link](https://ghanender-chauhan.github.io/Bank-WebApp/)
