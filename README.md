@@ -1,5 +1,3 @@
 # Bank-WebApp
 
-Live Link
-
-magnificent-chebakia-faa91f.netlify.app
+[Live Link](magnificent-chebakia-faa91f.netlify.app)
