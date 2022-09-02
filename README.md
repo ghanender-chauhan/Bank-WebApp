@@ -1,3 +1,3 @@
 # Bank-WebApp
 
-[Live Link](magnificent-chebakia-faa91f.netlify.app)
+Click [here](quora.com/profile/Ashish-Kulkarni-100)
